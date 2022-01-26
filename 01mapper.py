@@ -1,4 +1,4 @@
-
+akhil kasuvojula
 f = open("purchases.txt","r")  # open file, read-only
 
 o = open("BigAk.txt", "w") # open file, write
