@@ -1,4 +1,6 @@
-n = open("o.txt","r")  # open file, read-only
+#akhil kasuvojula
+
+n = open("BigAk.txt","r")  # open file, read-only
 s = open("s.txt", "w") # open file, write
 lines = n.readlines()
 lines.sort()
