@@ -1,6 +1,6 @@
 #akhil kasuvojula
 
-s = open("kasuvojula1.txt","r")
+s = open("kasuvojula2.txt","r")
 r = open("kasuvojula3.txt", "w")
 
 thisKey = ""
