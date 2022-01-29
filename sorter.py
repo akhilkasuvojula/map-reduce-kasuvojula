@@ -1,7 +1,7 @@
 #akhil kasuvojula
 
-n = open("BigAk.txt","r")  # open file, read-only
-s = open("s.txt", "w") # open file, write
+n = open("kasuvojula1.txt","r")  # open file, read-only
+s = open("kasuvojula2.txt", "w") # open file, write
 lines = n.readlines()
 lines.sort()
 

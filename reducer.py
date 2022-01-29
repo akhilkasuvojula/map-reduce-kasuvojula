@@ -1,7 +1,7 @@
 #akhil kasuvojula
 
-s = open("s.txt","r")
-r = open("r.txt", "w")
+s = open("kasuvojula1.txt","r")
+r = open("kasuvojula3.txt", "w")
 
 thisKey = ""
 thisValue = 0.0

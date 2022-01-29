@@ -1,7 +1,7 @@
 #akhil kasuvojula
 f = open("purchases.txt","r")  # open file, read-only
 
-o = open("BigAk.txt", "w") # open file, write
+o = open("kasuvojula1.txt", "w") # open file, write
 
 for line in f:  
 
